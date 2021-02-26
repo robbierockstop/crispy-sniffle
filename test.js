@@ -1,3 +1,2 @@
-<script>
-  console.log("test");
-</script>
+let test = "test"  
+console.log(test);
